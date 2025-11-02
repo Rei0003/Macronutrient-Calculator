@@ -1,0 +1,10 @@
+.pie-chart {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(
+      #ffdb8b 0deg 120deg,     
+      #80e8d1 120deg 240deg,   
+      #75aaff 240deg 360deg    
+    )
+};

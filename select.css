@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Momo+Trust+Sans:200,300,regular,500,600,700,800);
+
+select{
+  flex: 1;
+  font-family: "Momo Trust Sans", sans-serif;
+}
+select:hover{
+  cursor: pointer;
+}
+select:focus{
+  outline: none;
+}
